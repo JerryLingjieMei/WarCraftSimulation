@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jerrymei/Academics/Spring Semester, 2017/Algorithm & Data Structures/WarCraft/Source.cpp
+iostream
+-
+iomanip
+-
+numeric
+-
+deque
+-
+vector
+-
+set
+-
+fstream
+-
+
